@@ -1,0 +1,6 @@
+[submodule "packages/shared-test-lib"]
+	path = packages/shared-test-lib
+	url = https://github.com/itaditya/shared-test-lib
+[submodule "packages/abc-test-product"]
+	path = packages/abc-test-product
+	url = https://github.com/itaditya/abc-test-product
